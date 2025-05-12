@@ -1,0 +1,5 @@
+16fbf22fd32f87cd6e843aa4fc24dc96 *DESCRIPTION
+422052df53bc8ee8b30d162496c8f180 *NAMESPACE
+430f7f50c2361ddb1f34683656cbf69e *R/get_congressional_records.R
+74308611840e9e59180da13ce60dd0bb *R/zzz_helpers.R
+2582473f3c7ad281981816bca77f0932 *man/get_congressional_records.Rd
