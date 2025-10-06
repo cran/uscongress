@@ -1,7 +1,7 @@
 Package: uscongress
 Type: Package
 Title: Fetch United States Congressional Records (1995-Present)
-Version: 1.0.0
+Version: 1.0.2
 Authors@R: person("Steph", "Buongiorno",
                   email = "steph.buon@proton.me",
                   role = c("aut", "cre"))
@@ -14,10 +14,10 @@ Description: Fetch United States Congressional Records from their API <https://a
     returned in a structured dataframe for analysis.
 License: GPL-3
 Encoding: UTF-8
-RoxygenNote: 7.3.2
+RoxygenNote: 7.3.3
 Imports: httr, dplyr, stringr, rvest, tibble
 Suggests: testthat, knitr, rmarkdown
 NeedsCompilation: no
-Packaged: 2025-05-08 17:55:50 UTC; steph
+Packaged: 2025-10-06 15:29:17 UTC; stephbuongiorno
 Repository: CRAN
-Date/Publication: 2025-05-12 08:30:02 UTC
+Date/Publication: 2025-10-06 16:00:02 UTC
